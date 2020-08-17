@@ -1,4 +1,4 @@
-# test123
+# githubtutorial
 A simple toy repository for introducing Git/GitHub, testing/demonstrating features, etc.
 
 ## Learning objectives
