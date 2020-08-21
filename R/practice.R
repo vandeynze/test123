@@ -17,6 +17,8 @@ df <- read_csv(here("data/palmerpenguins.csv"))
 # THIS IS A COMMENT
 # modified comment - delete?
 
+# I LIKE POPCICLES - RF
+
 # Prepare data ----
 # Transform the data for potential future use in this section! Some ideas are provided below as TODOs.
 
