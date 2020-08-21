@@ -15,6 +15,7 @@ library(here) # Helper functions for relative filespace referencing
 df <- read_csv(here("data/palmerpenguins.csv"))
 
 # THIS IS A COMMENT
+# modified comment - delete?
 
 # Prepare data ----
 # Transform the data for potential future use in this section! Some ideas are provided below as TODOs.
