@@ -30,6 +30,9 @@ df <- read_csv(here("data/palmerpenguins.csv"))
 # Have some fun and make a ggplot figure! I provide an example (fig1). Modify this one, or Add your own and save it to the /figs/ directory!
 
 # Figure 1 - Body mass over time, by species and sex
+ggplot(df, aes(x=as.factor(year), y=body_mass_g)) + 
+  geom_boxplot()
+
 
 # Figure 2 - Bill length over time, by site and species
 
